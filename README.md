@@ -1,6 +1,6 @@
 # Simon Game
 
-*Web version of the classic kids game Simon, where the user has to click (or touch, if using on mobile or tablet) buttons in a specific order in order to progress to the next level. Deployed [here](https://eireann07.github.io/simon-game/) with Github pages.
+*Web version of the classic kids game Simon, where the user has to click (or touch, if using on mobile or tablet) buttons in a specific order in order to progress to the next level. Deployed [here](https://eireann07.github.io/simon-game/) with Github pages.*
 
 **What I enjoyed about building this site:** I remember playing Simon as a kid at my grandparents' house, so it was very cool to create this site as a final assessment of JavaScript/jQuery fundamentals. 
 
